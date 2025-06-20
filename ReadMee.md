@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/jbranabb" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" height="30" width="40"/></a>
-<a href="https://www.instagram.com/jbranabb" target="blank"><img align="center" src="https://img.icons8.com/?size=256&id=BrU2BBoRXiWq&format=png" alt="Instagram" height="30" width="40"/></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=XBcJlHhfsZZjVGtdtHzGFVVvrKxJvxgjxStTRGqzwBJkzcqzVvfGdxQLbSnLpXGFdkghdSjQflcCddDQ" target="blank"><img align="center" src="https://img.icons8.com/?size=256&id=qyRpAggnV0zH&format=png" alt="Instagram" height="30" width="40"/></a>
+<a href="https://www.instagram.com/jbranabb" target="blank"><img align="center" src="https://img.icons8.com/?size=256&id=BrU2BBoRXiWq&format=png" alt="Instagram" height="30" width="40"/></a> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
