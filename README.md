@@ -55,5 +55,5 @@
 ---
 
 🚀 Explore more on  
-[![deepwiki.tech badge](https://img.shields.io/badge/See%20More%20on-deepwiki.tech-blueviolet?style=for-the-badge&logo=github)](https://deepwiki.com/jbranabb)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/jbranabb)
 ---
