@@ -31,8 +31,29 @@
 </p>
 
 ---
+### 🧪 Projects I've Worked On
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jbranabb&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
+- 🏢 **[CompanyProfile]((https://deepwiki.com/jbranabb/companyProfile))**  
+  *Simple company profile app with integrated WebView.*
+
+- 🔐 **[AstroReal](https://deepwiki.com/jbranabb/astroreal)**  
+  *All-in-one personal tool: wallet manager, smart home control, and notes.*
+
+- 📝 **[TodoUkk](https://deepwiki.tech/project/todoukk)**  
+  *Lightweight note app with edit history & simple UX.*
+
+- 🎬 **[AbsoluteCinema](https://deepwiki.com/jbranabb/AbsoluteCinema)**  
+  *Modern movie listing app with rating, favorite, and watchlist – inspired by Letterboxd.*
+  
+- 📝 **[vocherBBMAppAGConsultan](https://deepwiki.com/jbranabb/vocherBBMAppAGConsultan)**  
+  *Manage & validate BBM (fuel) vouchers for AG Consultant’s internal use.*
+
+- 🎬 **[TandaTerimaAppAGConsultan](https://deepwiki.com/jbranabb/TandaTerimaAppAGConsultan)**  
+*Internal receipt generator for office needs, generating and managing digital receipts.*
+  
+
+---
+
+🚀 Explore more on  
+[![deepwiki.tech badge](https://img.shields.io/badge/See%20More%20on-deepwiki.tech-blueviolet?style=for-the-badge&logo=github)](https://deepwiki.com/jbranabb)
+---
