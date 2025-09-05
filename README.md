@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on a Flutter app called **AbsoluteCinema**
+- 🔭 I’m currently working on a Flutter app called **AGAbsensi**
 - 🌱 I’m currently learning **Flutter**, **React**, and exploring backend stuff
 - 💬 Ask me about anything related to mobile dev or tech in general
 - 📫 Reach me at: [zibranaby069@gmail.com](mailto:zibranaby069@gmail.com)
