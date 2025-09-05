@@ -33,7 +33,7 @@
 ---
 ### 🧪 Projects I've Worked On
 
-- 🏢 **[CompanyProfile]((https://deepwiki.com/jbranabb/companyProfile))**  
+- 🏢 **[CompanyProfile](https://deepwiki.com/jbranabb/companyProfile)**  
   *Simple company profile app with integrated WebView.*
 
 - 🔐 **[AstroReal](https://deepwiki.com/jbranabb/astroreal)**  
